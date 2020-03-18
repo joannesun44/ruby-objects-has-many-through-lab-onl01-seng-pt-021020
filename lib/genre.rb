@@ -1,10 +1,10 @@
 class Genre 
   
-  attr_accessor : method 
+  attr_accessor : name 
   @@all = []
     
-  def initialize(method)
-  @method = method
+  def initialize(name)
+  @name = name
   @@all << self
   end 
   
