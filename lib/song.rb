@@ -15,7 +15,7 @@ class Song
   end
   
   def genre 
-    
+    Genre.select.all
   end 
   
 end 
