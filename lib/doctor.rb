@@ -13,7 +13,7 @@ class Doctor
   end
   
   def appointments 
-    
+    App
   end 
   
 end 
