@@ -20,10 +20,5 @@ class Genre
     Artist.all.select{|artist| artist.genre == self}
   end 
   
-  
-  
-  
-  
-  
 end 
   
